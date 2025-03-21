@@ -1,12 +1,4 @@
-Dieses Projekt enthält eine MySQL-Datenbank zur Analyse von Verkaufsdaten. Es umfasst drei Tabellen: Kunden, Produkte und Bestellungen.
-
-Mit SQL-Abfragen können Umsätze berechnet, Top-Produkte ermittelt und Kundenanalysen durchgeführt werden.
-
-Schritte:
-
-1. Datenbank in MySQL erstellen
-2. Daten importieren
-3. SQL-Abfragen zur Analyse ausführen
+SQL-Abfragen zur Analyse ausführen
 
    # Test Verkaufsanalyse – MySQL
 
